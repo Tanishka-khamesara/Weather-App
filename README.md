@@ -1,8 +1,8 @@
-# Hosted link:- https://wheather-app-ashy.vercel.app/
+# Hosted link:- [https://wheather-app-ashy.vercel.app/](https://weather-app-opal-rho.vercel.app/)
                                                                    Weather App
 
 # ScreenShot
-![Screenshot 2024-03-19 123856](https://github.com/Asharma070320/Wheather_App/assets/127501344/f7dd15c7-b9af-488f-941e-53b31ce423c7)
+![Screenshot 2024-05-03 192751](https://github.com/Tanishka-khamesara/Weather-app/assets/127411985/74c45854-7fae-440c-8d71-b0cfd8816f4e)
 
                                                                        
 # Overview:-
